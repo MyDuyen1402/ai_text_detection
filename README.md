@@ -63,7 +63,7 @@ To demonstrate practical applicability, we developed a real-time web application
 *   **Black-Box Nature:** The detector lacks explainability; it cannot output span-level explanations detailing *why* a specific text is classified as AI.
 
 ## 👨‍🔬 Authors
-This project was conducted by researchers from the **University of Science, Vietnam National University – Ho Chi Minh City**:
+This project was conducted by researchers from the **University of Science, Vietnam National University – Ho Chi Minh City** as a final-term group project:
 *   **T. M. Duyen Ngo**
 *   **H. U. Thu Le**
 *   **L. L. Phuc Nguyen**
