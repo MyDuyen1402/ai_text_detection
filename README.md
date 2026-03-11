@@ -1,6 +1,3 @@
-Here is the official README file for your project, written in English based on the provided seminar report, formatted with a standard repository structure:
-
-***
 
 # Detecting AI-Generated Vietnamese Text 🇻🇳🤖
 
